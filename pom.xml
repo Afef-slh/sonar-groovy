@@ -77,7 +77,7 @@
   <properties>
     <sonar.version>8.0</sonar.version>
     <orchestrator.version>3.11</orchestrator.version>
-
+    <sonar.lang.patterns.grvy>**/*.groovy</sonar.lang.patterns.grvy>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.organization>tobix-github</sonar.organization>
   </properties>
