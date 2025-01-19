@@ -17,6 +17,7 @@
   <properties>
     <sonar.pluginClass>org.sonar.plugins.groovy.GroovyPlugin</sonar.pluginClass>
     <sonar.pluginName>Groovy</sonar.pluginName>
+    <sonar.lang.patterns.grvy>**/*.groovy</sonar.lang.patterns.grvy>
   </properties>
 
   <dependencies>
